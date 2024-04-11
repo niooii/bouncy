@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(31,81): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(31,28): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(31,44): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(31,61): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(45,14): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(50,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(50,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(50,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(50,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(68,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project1.vcxproj -> C:\Users\beyon\source\repos\yes\x64\Debug\Project1.exe

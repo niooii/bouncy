@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(45,81): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(45,28): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(45,44): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(45,61): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(87,14): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(92,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(93,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(104,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(107,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(108,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(118,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(126,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(127,45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(130,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(138,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(139,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(144,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\beyon\source\repos\yes\Project1\main.cpp(144,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 366 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\beyon\source\repos\yes\x64\Release\Project1.exe
